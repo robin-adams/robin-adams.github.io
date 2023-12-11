@@ -20,6 +20,10 @@ a {
     text-decoration: none; 
     color: #31678C; 
 }
+a:hover {
+ text-decoration: none; 
+ color: #7E1490; 
+}
 .assign {
     background-color: #FFCEFC;
     margin: 10px;
