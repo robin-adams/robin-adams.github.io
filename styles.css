@@ -1,16 +1,23 @@
 body {
     background: #EB7CAC;
     font-family: Arial;
+    display: flex;
+    flex-wrap: wrap;
 }
 h1 {
     color: #442BC2;
     text-align: center;
+    width: 100%;
+    display: block;
 }
 .assign {
-    display: flex;
     padding: 10px;
     margin: 10px;
     background: #FFCEFC;
+    border-radius: 20px; 
+    width: 20%;
+    box-shadow: 8px 8px #7777BD;
+    display: block; 
     border-radius: 20px; 
 }
 .assign img {
